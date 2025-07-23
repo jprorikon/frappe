@@ -82,12 +82,8 @@
     "yargs": "^17.5.1"
   },
   "resolutions": {
-    "@frappe/esbuild-plugin-postcss2":{
-      "stylus": "github:stylus/stylus#0.62.0"
-    },
-    "@vue/component-compiler":{
-      "stylus": "github:stylus/stylus#0.54.8"
-    }     
+    "@frappe/esbuild-plugin-postcss2/stylus":"github:stylus/stylus#0.62.0",
+    "@vue/component-compiler/stylus":"github:stylus/stylus#0.54.8"    
   },
   "nyc": {
     "report-dir": ".cypress-coverage"
