@@ -86,7 +86,7 @@
       "stylus": "github:stylus/stylus#0.62.0"
     },
     "@vue/component-compiler":{
-      "stylus": "github:stylus/stylus#0.54.0"
+      "stylus": "github:stylus/stylus#0.54.8"
     }     
   },
   "nyc": {
