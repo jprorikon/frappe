@@ -83,7 +83,7 @@
   },
   "overrides": {
       "stylus": "github:stylus/stylus#0.62.0"
-  }
+  },
   "nyc": {
     "report-dir": ".cypress-coverage"
   },
